@@ -1,0 +1,102 @@
+a{
+    text-decoration: none;
+    color: #d48a49;
+    font-size:25px;
+}
+table {
+    width:0px;
+    height:0px;
+    border:solid;
+}
+.cabecalho {
+    text-align:center;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 3px;
+    background-color: #8C5A2E;
+    margin-left: 200px;
+    margin-right: 0px;
+    word-spacing: 28px;
+    float:center
+}
+.cabecalho2 {
+    text-align:center;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 3px;
+    background-color: #8C5A2E;
+    float:center;
+    word-spacing: 28px;
+}
+.rodape{
+    text-align:center;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 3px;
+    background-color: #8C5A2E;
+    margin:10px;
+    margin-top: 870px;
+    color: #d48a49;
+    border:solid;
+    float:center;
+}
+.icon{
+    border-radius:100px;
+    margin-right:0px;
+    float:left;
+}
+body {
+    background-image:url("../imagens/hefesto-martelando-ferro.jpg");
+}
+.musica {
+    background-image:url("../imagens/fundo.png");
+    text-align:justify;
+    margin:30px;
+    margin-top:65px;
+    margin-left: 150px;
+    float:left;
+
+}
+.info{
+    font-size:29px;
+    background-image:url("../imagens/fundo.png");
+    margin: 30px;
+    margin-bottom: 20px;
+    float:left;
+}
+.jogo {
+    background-image:url("../imagens/fundo.png");
+    margin: 30px;
+    float:left;
+}
+.galeria {
+    background-image:url("../imagens/fundo.png");
+}
+.entrada {
+    background-image:url("../imagens/fundo.png");
+    float:left;
+    padding-left:10px;
+    padding-right:10px;
+    margin-top:20px;
+}
+.produtos {
+    background-image:url("../imagens/fundo.png");
+    float:left;
+    padding:10px;
+    margin:20px;
+    margin-bottom:60px;
+    margin-top: 160px;
+}
+.saida {
+    background-image:url("../imagens/fundo.png");
+    float:right;
+    padding-left:10px;
+    padding-right:10px;
+    margin-left:186px;
+}
